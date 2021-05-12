@@ -1,2 +1,2 @@
 # 3-column-card-component
-Created with CodeSandbox
+Challenge from frontendmentor.io
